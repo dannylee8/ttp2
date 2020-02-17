@@ -1,5 +1,6 @@
  
 This App is deployed at: [https://ttp-live-frontend.netlify.com/](https://ttp-live-frontend.netlify.com/)
+(It may show as 404 - not found at first, but if you wait a moment and refresh it will show up.  Thanks for your patience. ☺️)
 
 #### Sample Users
 email: danny@email.com /
