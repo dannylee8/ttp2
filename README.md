@@ -1,5 +1,5 @@
  
-This App is hosted deployed at: [https://ttp-live-frontend.netlify.com/](https://ttp-live-frontend.netlify.com/)
+This App is deployed at: [https://ttp-live-frontend.netlify.com/](https://ttp-live-frontend.netlify.com/)
 
 #### Sample Users
 email: danny@email.com /
