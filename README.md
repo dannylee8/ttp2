@@ -15,7 +15,7 @@ public repository that can be shared and must contain a clear commit history.
 
 #### Design & Style Guide
 
-
+![Design-style-guide-sample](https://raw.githubusercontent.com/dannylee8/ttp/master/design-style-guide.png)
 
 #### User Stories (6)
 1. As a user, I want to create a new account with my name, email, and password so that I can buy and
