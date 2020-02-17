@@ -85,3 +85,8 @@ dynamically to indicate performance.
 		- Standard mode does not do this, but there are limited number of API calls 
 			available for free accounts.
 -----
+### To sample this app on a local compupter:
+1. Download and clone the archive
+2. Run 'bundle' and 'rails s' in the backend directory.
+3. Run 'yarn' and 'yarn start' in the frontend directory.
+4. Navigate to localhost:3000 (should open automatically)
