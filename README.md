@@ -1,4 +1,5 @@
 
+
 # Front and backend for TTP Stage 2 assessment
 [https://drive.google.com/file/d/1Z9kbDmSzfGIvShJDzXQvpX68DAHfO0iS/view]
 
@@ -64,7 +65,7 @@ dynamically to indicate performance.
 	- comma-number 2.0.1
 	
 ### Stock information API
-	- IEX cloud [https://iexcloud.io/]
+	- IEX cloud (https://iexcloud.io/)
 		- Currently in Sandbox mode, which does not have a limit on API calls, but returns randomized quotes.  
 		- Standard mode does not do this, but there are limited number of API calls available for free accounts.
 -----
