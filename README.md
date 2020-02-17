@@ -48,17 +48,17 @@ dynamically to indicate performance.
 -----
 ## Technology Stack
 
-###Ruby on Rails backend as API/Server
-ruby 2.6.1
-rails 6.0.2
-postgresql 1.2.2
-bcrypt 3.1.13 - authentication/login
-active_model_serializers 0.10.10
-iex-ruby-client 1.1.0
+### Ruby on Rails backend as API/Server
+	- ruby 2.6.1
+	- rails 6.0.2
+	- postgresql 1.2.2
+	- bcrypt 3.1.13 - authentication/login
+	- active_model_serializers 0.10.10
+	- iex-ruby-client 1.1.0
 
-###Javascript and React frontend
-react 16.12.0
-react router 5.1.2
-axios 0.19.2
-eslint 7.18.0
-comma-number 2.0.1
+### Javascript and React frontend
+	- react 16.12.0
+	- react router 5.1.2
+	- axios 0.19.2
+	- eslint 7.18.0
+	- comma-number 2.0.1
