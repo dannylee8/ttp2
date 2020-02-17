@@ -1,6 +1,7 @@
  
-This App is deployed at: [https://ttp-live-frontend.netlify.com/](https://ttp-live-frontend.netlify.com/)
-(It may show as 404 - not found at first, but if you wait a moment and refresh it will show up.  Thanks for your patience. ☺️)
+This App is deployed at: [https://ttp-live-frontend.netlify.com/](https://ttp-live-frontend.netlify.com/). 
+
+note:  When navigating there, a 404 (not found) error might appear.  This is due to the idling of the server.  If you wait a brief moment and refresh the page, it should show up. If you have difficulties please message me! Thank you for your patience. ☺️
 
 #### Sample Users
 email: danny@email.com /
