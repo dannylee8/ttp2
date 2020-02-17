@@ -80,6 +80,8 @@ dynamically to indicate performance.
 	
 ### Stock information API
 	- IEX cloud (https://iexcloud.io/)
-		- Currently in Sandbox mode, which does not have a limit on API calls, but returns randomized quotes.  
-		- Standard mode does not do this, but there are limited number of API calls available for free accounts.
+		- Currently in Sandbox mode, which does not have a limit on API calls, 
+			but returns randomized quotes.  
+		- Standard mode does not do this, but there are limited number of API calls 
+			available for free accounts.
 -----
