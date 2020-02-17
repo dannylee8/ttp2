@@ -62,3 +62,9 @@ dynamically to indicate performance.
 	- axios 0.19.2
 	- eslint 7.18.0
 	- comma-number 2.0.1
+	
+### Stock information API
+	- IEX cloud [link](https://iexcloud.io/) 
+		- Currently in Sandbox mode, which does not have a limit on API calls, but returns randomized quotes.  
+		- Standard mode does not do this, but there are limited number of API calls available for free accounts.
+-----
