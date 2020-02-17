@@ -1,7 +1,8 @@
-
+ 
+This App is hosted deployed at: [https://ttp-live-frontend.netlify.com/](https://ttp-live-frontend.netlify.com/)
 
 # Front and backend for TTP Stage 2 assessment
-[https://drive.google.com/file/d/1Z9kbDmSzfGIvShJDzXQvpX68DAHfO0iS/view]
+Assessment requirements: [Google drive, pdf](https://drive.google.com/file/d/1Z9kbDmSzfGIvShJDzXQvpX68DAHfO0iS/view)
 
 ### Fullstack Assessment
 #### Overview
