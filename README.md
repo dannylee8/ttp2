@@ -1,6 +1,19 @@
  
 This App is hosted deployed at: [https://ttp-live-frontend.netlify.com/](https://ttp-live-frontend.netlify.com/)
 
+#### Sample Users
+email: danny@email.com /
+pw: password 
+
+email: ml@email.com /
+pw: password
+
+email: rj@email.com /
+pw: password
+
+email: jz@email.com /
+pw: password
+
 # Front and backend for TTP Stage 2 assessment
 Assessment requirements: [Google drive, pdf](https://drive.google.com/file/d/1Z9kbDmSzfGIvShJDzXQvpX68DAHfO0iS/view)
 
