@@ -1,7 +1,23 @@
+ 
+This App is deployed at: [https://ttp-live-frontend.netlify.com/](https://ttp-live-frontend.netlify.com/). 
 
+note:  When navigating there, a 404 (not found) error might appear.  This is due to the idling of the server.  If you wait a brief moment and refresh the page, it should show up. If you have difficulties please message me! Thank you for your patience. ☺️
+
+#### Sample Users
+email: danny@email.com /
+pw: password 
+
+email: ml@email.com /
+pw: password
+
+email: rj@email.com /
+pw: password
+
+email: jz@email.com /
+pw: password
 
 # Front and backend for TTP Stage 2 assessment
-[https://drive.google.com/file/d/1Z9kbDmSzfGIvShJDzXQvpX68DAHfO0iS/view]
+Assessment requirements: [Google drive, pdf](https://drive.google.com/file/d/1Z9kbDmSzfGIvShJDzXQvpX68DAHfO0iS/view)
 
 ### Fullstack Assessment
 #### Overview
@@ -66,6 +82,13 @@ dynamically to indicate performance.
 	
 ### Stock information API
 	- IEX cloud (https://iexcloud.io/)
-		- Currently in Sandbox mode, which does not have a limit on API calls, but returns randomized quotes.  
-		- Standard mode does not do this, but there are limited number of API calls available for free accounts.
+		- Currently in Sandbox mode, which does not have a limit on API calls, 
+			but returns randomized quotes.  
+		- Standard mode does not do this, but there are limited number of API calls 
+			available for free accounts.
 -----
+### To sample this app on a local computer:
+1. Download and clone the archive
+2. Run 'bundle' and 'rails s' in the backend directory.
+3. Run 'yarn' and 'yarn start' in the frontend directory.
+4. Navigate to localhost:3000 (should open automatically)
